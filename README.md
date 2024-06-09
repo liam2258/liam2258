@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Lexical Automatic Text Simplifier**
 
-- 🌱 I’m currently learning about **AI and Monte Carlo Trees**
+- 🌱 I’m currently learning about **C# and .NET**
 
 - 👨‍💻 All of my projects are available at [liamdyer.dev](liamdyer.dev)
 
