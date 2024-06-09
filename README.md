@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **C# and .NET**
 
-- 👨‍💻 All of my projects are available at [liamdyer.dev](liamdyer.dev)
+- 👨‍💻 All of my projects are available at [liamdyer.us](liamdyer.us)
 
 - 💬 Ask me about a **fun new technology!**
 
